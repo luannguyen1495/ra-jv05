@@ -9,5 +9,7 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <a href="demo-servlet">chuyen den demo ne</a>
+<br>
+<a href="account">Dăng ky tai khoan</a>
 </body>
 </html>
